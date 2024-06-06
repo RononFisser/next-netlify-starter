@@ -15,7 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <div className="guitarImageDiv">
+          <img className="guitarImage" src="guitar_07.jpg" alt="Guitar"/>
+
+        </div>
         <div className="card">
+          
           <h1>Ronon Fisser</h1>
           <h2>Student</h2>
           <p>Email: email@email.com</p>
